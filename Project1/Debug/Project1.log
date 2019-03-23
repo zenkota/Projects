@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\zenkota\source\repos\project1\project1\source.cpp(17): error C4996: 'strset': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strset. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(579): note: see declaration of 'strset'
